@@ -13,5 +13,5 @@ Faces are not the most interesting all the time, though Zoom/Teams etc are used 
 https://www.saxion.nl/nieuws/2020/12/docent-lieke-middel-maakt-haar-eigen-lightboard
 
 No tele-presence, but physically together, in a Corona-safe way:
-Have a 2-sided 'white'-board, possibly with a roof on top to guide soundwaves from one side to the other (and keep you dry).
+Have a transparent board acting like a 2-sided whiteboard, possibly with a roof on top to guide soundwaves from one side to the other (and keep you dry).
 Could also be x-shaped for 4 persons.
