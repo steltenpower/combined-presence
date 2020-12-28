@@ -11,3 +11,7 @@ https://thecraftyrobot.net/blogs/projects/cheap-telepresence-robot
 Faces are not the most interesting all the time, though Zoom/Teams etc are used for that. Maybe seeing what people are doing with their hands is more interesting, or seeing what people are looking at (especially when it's something not on a screen. Put a webcam on your head similar to a miners' lamp? And if you can make a lamp or beamer show shine a frame to know what the camera sees, it might be even more useful.
 
 https://www.saxion.nl/nieuws/2020/12/docent-lieke-middel-maakt-haar-eigen-lightboard
+
+No tele-presence, but physically together, in a Corona-safe way:
+Have a 2-sided 'white'-board, possibly with a roof on top to guide soundwaves from one side to the other (and keep you dry).
+Could also be x-shaped for 4 persons.
