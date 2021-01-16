@@ -1,4 +1,4 @@
-# (thoughtsOn)PracticalTelepresence
+# Working apart together (trying to combine advantages of both)
 
 Before I go into technological ideas, please also think about what works best for what. And low-tech certainly keeps its role too.
 
@@ -15,3 +15,6 @@ https://www.saxion.nl/nieuws/2020/12/docent-lieke-middel-maakt-haar-eigen-lightb
 No tele-presence, but physically together, in a Corona-safe way:
 Have a transparent board acting like a 2-sided whiteboard, possibly with a roof on top to guide soundwaves from one side to the other (and keep you dry).
 Could also be x-shaped for 4 persons.
+Or maybe just open an outdoor with a window and stand on opposite sides.
+
+A wall-to-wall floor-to-ceiling transparent room screen, to virus-separate a room (make sure both sides have independent ventilation and all users are likely to NOT have a serious virus
