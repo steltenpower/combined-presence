@@ -1,4 +1,5 @@
-# combined presence (working together in a mix of physical and virtual)
+# combined presence
+(working together in a mix of physical and virtual)
 
 Before I go into technological ideas, please also think about what works best for what. And low-tech certainly keeps its role too.
 
