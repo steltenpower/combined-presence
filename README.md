@@ -1,4 +1,5 @@
 # Combined presence
+<img src="https://repository-images.githubusercontent.com/151171834/95e35d80-7898-11eb-990b-e2d94d5095cd">
 (working together in a mix of physical and virtual)
 
 Before I go into technological ideas, please also think about what works best for what. And low-tech certainly keeps its role too.
