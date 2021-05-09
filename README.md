@@ -10,7 +10,7 @@ Mobile phone on wheels: [Cheap Telepresence Robot](https://thecraftyrobot.net/bl
 
 <!-- @tovissy: This reminds me of https://www.doublerobotics.com/ - a pricey solution with an iPad -->
 
-Faces are not the most interesting all the time, though Zoom/Teams etc are used for that. Maybe seeing what people are doing with their hands is more interesting, or seeing what people are looking at (especially when it's something not on a screen. Put a webcam on your head similar to a miners' lamp? And if you can make a lamp or beamer show shine a frame to know what the camera sees, it might be even more useful.
+Faces are not the most interesting all the time, though Zoom/Teams etc are used for that. Maybe seeing what people are doing with their hands is more interesting, or seeing what people are looking at (especially when it's something not on a screen. Put a webcam on your head similar to a miners' lamp? And if you can make a lamp or beamer shine a frame to know what the camera sees, it might be even more useful.
 
 <!-- @tovissy: Wasn't Google Glass all about this? While it failed as a retail product, but is still alive as an enterprise solution https://www.google.com/glass/start/ Also, there are many eyetracking solutions available used in marketing & design researching, that might be repurposed https://imotions.com/blog/eye-tracker-prices/ -->
 
