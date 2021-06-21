@@ -31,3 +31,4 @@ Or maybe just open an outdoor with a window and stand on opposite sides.
 
 A wall-to-wall floor-to-ceiling transparent room screen, to virus-separate a room (make sure both sides have independent ventilation and all users are likely to NOT have a serious virus
 
+And of course obvious things as going for a walk or bike ride with colleagues, meeting in different times and places, and society wide: step out of the rat race, slow down (except for finding new climate solutions, but more importantly APPLYING THE CLIMATE SOLUTIONS WE ALREADY HAVE)
