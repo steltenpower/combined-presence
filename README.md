@@ -31,4 +31,6 @@ Or maybe just open an outdoor with a window and stand on opposite sides.
 
 A wall-to-wall floor-to-ceiling transparent room screen, to virus-separate a room (make sure both sides have independent ventilation and all users are likely to NOT have a serious virus
 
-And of course obvious things as going for a walk or bike ride with colleagues, meeting in different times and places, and society wide: step out of the rat race, slow down (except for finding new climate solutions, but more importantly APPLYING THE CLIMATE SOLUTIONS WE ALREADY HAVE)
+And of course obvious things as going for a walk or bike ride with colleagues, meeting in different times and places, taking time to think about the why and what more, being effective over efficient. And society wide: step out of the rat race, slow down (except for finding new climate solutions, but more importantly APPLYING THE CLIMATE SOLUTIONS WE ALREADY HAVE).
+
+And for a renewed focus on thinking, maybe read "THE EXTENDED MIND: THE POWER OF THINKING OUTSIDE THE BRAIN" about thinking with our bodies, environments and relations.
