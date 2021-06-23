@@ -34,3 +34,5 @@ A wall-to-wall floor-to-ceiling transparent room screen, to virus-separate a roo
 And of course obvious things as going for a walk or bike ride with colleagues, meeting in different times and places, taking time to think about the why and what more, being effective over efficient. And society wide: step out of the rat race, slow down (except for finding new climate solutions, but more importantly APPLYING THE CLIMATE SOLUTIONS WE ALREADY HAVE).
 
 And for a renewed focus on thinking, maybe read "THE EXTENDED MIND: THE POWER OF THINKING OUTSIDE THE BRAIN" about thinking with our bodies, environments and relations.
+
+Sitting behind a desk all day is bad for health, creativity, cooperation and therefore productivity. Putting human communication including richness like gestures first, but with the power of our digital assistents? An experiment: [walk-a-desk](https://github.com/steltenpower/walk-a-desk)
